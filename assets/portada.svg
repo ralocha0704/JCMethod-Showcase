@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">JC Method — Entrenamiento con propósito</title>
+  <desc id="desc">Presentación de portafolio de una plataforma de entrenamiento y seguimiento fitness.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e17"/><stop offset="1" stop-color="#090d0b"/></linearGradient><radialGradient id="glow"><stop stop-color="#39cb77" stop-opacity=".25"/><stop offset="1" stop-color="#39cb77" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <ellipse cx="1110" cy="100" rx="390" ry="330" fill="url(#glow)"/>
+  <path d="M960 90v180M1000 65v230M1120 65v230M1160 90v180M1000 180h120" stroke="#7df1a4" stroke-width="20" stroke-linecap="round" opacity=".26"/>
+  <rect x="64" y="58" width="5" height="27" rx="2" fill="#7df1a4"/>
+  <text x="85" y="79" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#7df1a4">PORTAFOLIO · DESARROLLO FULL STACK</text>
+  <text x="60" y="174" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" fill="#f4f8f5">JC METHOD</text>
+  <text x="64" y="224" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#c3d0c7">Entrenamiento con propósito. Progreso visible.</text>
+  <text x="64" y="295" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8ca696">RUTINAS  /  SEGUIMIENTO  /  CONSTANCIA</text>
+</svg>
